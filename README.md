@@ -1,1 +1,1 @@
-# PyTorch-Cookbook
+# PyTorch Cookbook
