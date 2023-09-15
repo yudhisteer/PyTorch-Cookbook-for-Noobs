@@ -10,3 +10,40 @@
 ------------
 
 ## 1.  Getting data
+
+
+
+------------
+
+## 2.  Building a model
+
+
+
+
+
+
+--------
+
+## 3. Fitting the model (Training)
+
+
+
+
+
+
+
+
+
+----------
+## 4. Evaluating the model (Testing)
+
+
+
+
+
+
+
+
+
+--------------
+## 5. Saving the model
