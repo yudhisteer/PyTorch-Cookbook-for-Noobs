@@ -55,3 +55,6 @@
 
 --------------
 ## 5. Saving the model
+
+## References
+1. https://github.com/davidbau/how-to-read-pytorch
