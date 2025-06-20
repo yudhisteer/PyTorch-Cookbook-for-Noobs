@@ -66,3 +66,4 @@
 -------------------------
 ## References
 1. https://github.com/davidbau/how-to-read-pytorch
+2. https://github.com/jcjohnson/pytorch-examples
