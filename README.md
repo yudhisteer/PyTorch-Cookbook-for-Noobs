@@ -2,7 +2,7 @@
 
 ## Steps
 0. [Pre-requisites](#pre)
-1. [Getting data](#gd)
+1. [Reading PyTorch](#rp)
 2. [Building a model](#bm)
 3. [Fitting the model (Training)](#fm)
 4. [Evaluating the model (Testing)](#em)
@@ -17,8 +17,8 @@
 
 
 -------------------------
-<a name="gd"></a>
-## 1.  Getting data
+<a name="rp"></a>
+## 1.  Reading PyTorch
 
 
 
@@ -67,3 +67,4 @@
 ## References
 1. https://github.com/davidbau/how-to-read-pytorch
 2. https://github.com/jcjohnson/pytorch-examples
+3. https://sebastianraschka.com/teaching/pytorch-1h/
